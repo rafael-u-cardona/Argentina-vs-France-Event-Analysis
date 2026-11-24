@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 # ==================================================
 
 MATCH_ID = 3869685
-ruta = rf"C:\Users\3195138\AnalisisDatos\open-data-master\data\events\{MATCH_ID}.json"
+ruta = rf"C:\data\events\{MATCH_ID}.json"
 
 def cargar_datos (ruta):
 
